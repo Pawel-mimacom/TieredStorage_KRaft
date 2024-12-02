@@ -8,7 +8,7 @@ Confluent's tiered storage demo with local MinIO installation. Does use RBAC and
 - openbLdap `http://localhost:8010 (cn=admin,dc=mimacomdemo,dc=com :admin)` 
 - CC `http://localhost:9021`
 
-## Commands
+## Commands
 
 - create sample topic
 ```bash
